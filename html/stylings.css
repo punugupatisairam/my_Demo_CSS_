@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* .my li{
+    display: inline-block;
+    text-transform:uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100px;
+}
+.nav{
+    background-color: lightblue;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} */
+ 
+.nav li{
+    display: inline-block;
+    text-transform:uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 150px;
+}
+
+/* .list li{
+    display: inline-block;
+    width: 100px;
+}
+.img1 img{
+    display: inline-block;
+    
+}
+.data1 p{
+    display: inline-block;
+} */
